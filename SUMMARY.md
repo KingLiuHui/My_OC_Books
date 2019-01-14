@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* [Test](test.md)
+* [爱丁堡日志](test.md)
 
